@@ -4,6 +4,4 @@ The repository contains Report for FISAC 1 Submission and, Demo Video and the Cl
 
 # Contributors:
 
-KARTIK AMOL DIWAN                 REG NO: 190905246 
-HARSH RAJ SARDANA                 REG NO: 190905161 
-MUSTAFA ABBASALI HUSAIN ISMAILJEE REG NO: 180905063
+KARTIK AMOL DIWAN - REG NO: 190905246
